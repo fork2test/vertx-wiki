@@ -3,7 +3,7 @@
 starting from the vertx tutorial, but adding some stuff:
 
   - graylog
-  - logstash
+  - logback
   - docker
   - metrics (db pool)
 
